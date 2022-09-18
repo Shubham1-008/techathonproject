@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/techathonproject/static/css/main.d245ac61.css",
+    "main.js": "/techathonproject/static/js/main.a22e4bc3.js",
+    "static/js/27.63d4417b.chunk.js": "/techathonproject/static/js/27.63d4417b.chunk.js",
+    "index.html": "/techathonproject/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d245ac61.css",
+    "static/js/main.a22e4bc3.js"
+  ]
+}
